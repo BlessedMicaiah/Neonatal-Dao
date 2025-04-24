@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+sentence-transformers
+datasets
+tqdm
+PyPDF2
+faiss-cpu
+beautifulsoup4
+requests
+yaml

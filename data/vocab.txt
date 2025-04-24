@@ -1,0 +1,6 @@
+[PAD]
+[UNK]
+<|endoftext|>
+a
+b
+c
