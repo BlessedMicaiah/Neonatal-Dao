@@ -1,0 +1,10 @@
+model:
+  base_model: gpt2
+
+training:
+  epochs: 3
+  batch_size: 2
+  lr: 5e-5
+
+retriever:
+  top_k: 4
