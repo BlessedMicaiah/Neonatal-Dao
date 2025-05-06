@@ -1,0 +1,40 @@
+{
+  "papers": [
+    {
+      "id": "paper001",
+      "title": "Advances in Neonatal Care Protocols",
+      "authors": ["Smith, J.", "Johnson, M.", "Williams, R."],
+      "doi": "10.1234/neonate.2023.001",
+      "published_date": "2023-04-15",
+      "journal": "Journal of Neonatal Medicine",
+      "abstract": "This paper presents the latest advances in neonatal care protocols with emphasis on premature infant management.",
+      "keywords": ["neonatal care", "protocols", "premature infants", "NICU"],
+      "filepath": "raw/advances_neonatal_care.pdf",
+      "processed_filepath": "processed/advances_neonatal_care.txt"
+    },
+    {
+      "id": "paper002",
+      "title": "Risk Factors for Neonatal Respiratory Distress Syndrome",
+      "authors": ["Chen, L.", "Garcia, A.", "Kumar, P."],
+      "doi": "10.1234/neonate.2023.002",
+      "published_date": "2023-02-10",
+      "journal": "Pediatric Respiratory Reviews",
+      "abstract": "A comprehensive analysis of risk factors contributing to neonatal respiratory distress syndrome in term and preterm infants.",
+      "keywords": ["respiratory distress syndrome", "RDS", "neonatal", "risk factors"],
+      "filepath": "raw/rds_risk_factors.pdf",
+      "processed_filepath": "processed/rds_risk_factors.txt"
+    },
+    {
+      "id": "paper003",
+      "title": "Neonatal Jaundice Treatment Guidelines: Updated Review",
+      "authors": ["Patel, S.", "Okonkwo, D.", "Robinson, T."],
+      "doi": "10.1234/neonate.2023.003",
+      "published_date": "2023-05-22",
+      "journal": "International Journal of Pediatrics",
+      "abstract": "Updated guidelines for the diagnosis and management of neonatal jaundice, incorporating recent evidence and therapeutic approaches.",
+      "keywords": ["jaundice", "neonatal", "hyperbilirubinemia", "phototherapy"],
+      "filepath": "raw/jaundice_guidelines.pdf",
+      "processed_filepath": "processed/jaundice_guidelines.txt"
+    }
+  ]
+}
